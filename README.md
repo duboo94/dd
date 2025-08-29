@@ -1,7 +1,11 @@
 # MOMO Keyboard
 
- - Dual Trackball (Hot-swap)
- - 17.7 x 16.7 Spacing (-0.6u -0.6u 0u -0.5u -1.5u)
+ - 32key split keyboard (keyball type)
+ https://github.com/Yowkees/keyball
+ - KLP Lame keycaps (MX Stem + Choc Size)
+ https://github.com/braindefender/KLP-Lame-Keycaps
+ - Dual Trackball (left or right or dual Hot-swap)
+ - Spacing 17.7 x 16.7 (-0.6u -0.6u 0u -0.5u -1.5u)m
 
 
 # keymap
