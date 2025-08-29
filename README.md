@@ -1,5 +1,8 @@
 # MOMO Keyboard
 
+## SPEC
+### SPEC
+
  - 32key split keyboard (keyball type)
  https://github.com/Yowkees/keyball
  - KLP Lame keycaps (MX Stem + Choc Size)
